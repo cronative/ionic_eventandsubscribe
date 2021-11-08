@@ -1,0 +1,7 @@
+{
+  "name": "EventsAndSubscribeDemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
